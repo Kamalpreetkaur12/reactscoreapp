@@ -1,0 +1,40 @@
+.scores{
+    width: 50%;
+    margin: 20px auto;
+    border: 2px solid grey;
+}
+.heading{
+    background-color: rgb(181, 250, 250);
+    width: 100%;
+    height: 5rem;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
+.secHead{
+    text-align: center;
+    padding: 0 20px;
+    color: rgb(29, 209, 209);
+}
+.btn{
+    width: 10%;
+    margin: 10px auto;
+    
+}
+button{
+   margin-right: 10px;
+    background-color: rgb(174, 240, 240);
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+.lastLine{
+    background-color: rgb(181, 250, 250);
+    width: 100%;
+    height: 5rem;
+    text-align: center;
+    padding-top: 20px;
+    box-sizing: border-box;
+}
